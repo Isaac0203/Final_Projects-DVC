@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558495212 source:c:\users\jung\desktop\final_proto\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<string>
+
+1558495212 source:c:\users\jung\desktop\finalproject_completed\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<string>
+
