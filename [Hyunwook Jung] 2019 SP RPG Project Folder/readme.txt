@@ -7,7 +7,7 @@ End Date: 21 May 2019
 Author: Hyunwook Jung
         
         
-Name of the program: Dark Run
+Name of the program: Dungeon Run
 Main Concept: Challenge to monsters and enter into deeper dungeon
 
 Code Test - Filter unreliable user input.
